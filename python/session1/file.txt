@@ -1,0 +1,1 @@
+enable pipeline and CI testing
